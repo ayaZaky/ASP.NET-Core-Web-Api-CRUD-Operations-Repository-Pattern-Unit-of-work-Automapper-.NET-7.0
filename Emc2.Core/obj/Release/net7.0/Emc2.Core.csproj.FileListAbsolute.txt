@@ -1,0 +1,12 @@
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\bin\Release\net7.0\Emc2.Core.deps.json
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\bin\Release\net7.0\Emc2.Core.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\bin\Release\net7.0\Emc2.Core.pdb
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.csproj.AssemblyReference.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.AssemblyInfoInputs.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.AssemblyInfo.cs
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.csproj.CoreCompileInputs.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\refint\Emc2.Core.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\Emc2.Core.pdb
+G:\ITI_\.NET\Emc2_Api\Emc2.Core\obj\Release\net7.0\ref\Emc2.Core.dll

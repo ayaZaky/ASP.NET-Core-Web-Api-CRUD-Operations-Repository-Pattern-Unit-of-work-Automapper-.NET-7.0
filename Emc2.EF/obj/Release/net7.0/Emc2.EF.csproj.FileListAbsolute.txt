@@ -1,0 +1,17 @@
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\bin\Release\net7.0\Emc2.EF.deps.json
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\bin\Release\net7.0\Emc2.EF.runtimeconfig.json
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\bin\Release\net7.0\Emc2.EF.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\bin\Release\net7.0\Emc2.EF.pdb
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\bin\Release\net7.0\Emc2.Core.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\bin\Release\net7.0\Emc2.Core.pdb
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.csproj.AssemblyReference.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.AssemblyInfoInputs.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.AssemblyInfo.cs
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.csproj.CoreCompileInputs.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.csproj.CopyComplete
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\refint\Emc2.EF.dll
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.pdb
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\Emc2.EF.genruntimeconfig.cache
+G:\ITI_\.NET\Emc2_Api\Emc2.EF\obj\Release\net7.0\ref\Emc2.EF.dll
